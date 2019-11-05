@@ -1,5 +1,7 @@
 # angular-sketchpad
 
+[![Show Video](http://img.youtube.com/vi/gJ50_FGEeKA/0.jpg)](http://www.youtube.com/watch?v=gJ50_FGEeKA)
+
 This project creates a sketchpad with [Angular](https://angular.io/) and [P5JS](https://p5js.org/).
 
 To run it locally just run `npm run start`.
